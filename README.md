@@ -4,5 +4,5 @@
 
 
 <div align="center">
-  <img src="joaogallindo-dev-space-shooter.gif" width="100%" alt="joaogallindo-dev-space-shooter" />
+  <img src="joaogallindo-dev-space-shooter.gif" width="100%" alt="Animated Space Shooter" style="max-width: 100%;">
 </div>
