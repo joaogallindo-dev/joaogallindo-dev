@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DB9DA&random=false&width=435&lines=Programador+/+Design+Full+Stack+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DB9DA&random=false&width=435&lines=Programador+Full+Stack+AI+/+Design+Full+Stack+AI)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,git,html,css,js,ai,discord,notion,github,vscode,eclipse,python,figma,java&theme=light)](https://skillicons.dev)
 
