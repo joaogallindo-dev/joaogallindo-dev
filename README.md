@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DB9DA&random=false&width=435&lines=Programador+Full+Stack+/+Design+AI)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=raeact,linkedin,eclipse,vscode,html,css,js,python,github,git,mysql,spring,docker,figma,ai,java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,eclipse,vscode,html,css,react,js,python,github,git,mysql,spring,docker,figma,ai,java&theme=light)](https://skillicons.dev)
 
 
 <div align="center">
