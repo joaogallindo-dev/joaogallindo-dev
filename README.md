@@ -172,10 +172,10 @@ I'm interested in exploring how AI can improve:
 ##  Database & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,supabase&theme=dark" />
 </p>
 
-**MySQL · PostgreSQL · Docker**
+**MySQL · PostgreSQL · Docker · Supabase**
 
 ---
 
