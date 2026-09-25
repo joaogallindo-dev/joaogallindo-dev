@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👨🏻‍💻 João Gabriel
 
 **`Full Stack Developer · Frontend · UI/UX · Design & AI`**
