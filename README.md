@@ -172,14 +172,6 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6DB9DA" alt="Profile views">
-
-</div>
-
----
-
 <div align="center">
 
 <img src="joaogallindo-dev-space-shooter.gif" width="100%" alt="Animated Space Shooter">
