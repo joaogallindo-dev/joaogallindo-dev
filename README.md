@@ -16,7 +16,7 @@
   </table>
 </div>
 
-<img src="/img/lineBar.png" width="100%" height="8px"/>
+<img src="gif.gif.png" width="100%" height="8px"/>
 
 <div><br/>
 
