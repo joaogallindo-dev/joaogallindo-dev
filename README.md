@@ -55,8 +55,6 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<img align="left" alt="REST API" title="REST API" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-
 <br/>
 <br/>
 
