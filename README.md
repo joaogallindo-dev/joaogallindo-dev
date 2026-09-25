@@ -1,172 +1,44 @@
 <div align="center">
 
-# 👋 Hey, I'm João Gabriel
+# 👨🏻‍💻 João Gabriel
 
-### Full Stack Developer · Frontend · UI/UX · Design & AI
+**`Full Stack Developer · Frontend · UI/UX · Design & AI`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6DB9DA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+%26+UI%2FUX+Enthusiast;Creative+Developer+%7C+Design+%2B+Technology;Building+interfaces+that+feel+good+to+use.)](https://git.io/typing-svg)
-
-<br>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/SEU_USUARIO/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-6DB9DA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6DB9DA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+%26+UI%2FUX+Enthusiast;Design+%2B+Technology+%2B+AI;Building+interfaces+that+feel+good+to+use)](https://git.io/typing-svg)
 
 </div>
 
-##  About Me
+---
 
-I'm a **Full Stack Developer** passionate about the intersection between **technology, design, user experience and artificial intelligence**.
+## 🇧🇷 Sobre mim
 
-My journey in development goes beyond writing code. I enjoy understanding how people interact with digital products and transforming ideas into interfaces that are **functional, intuitive, accessible and visually engaging**.
+Me chamo **João Gabriel** e sou **Desenvolvedor Full Stack**, com maior interesse em **Frontend, UI/UX, Design e Inteligência Artificial**.
 
-My strongest interests are currently focused on:
+Gosto de trabalhar na interseção entre **design e desenvolvimento**, transformando ideias, protótipos e conceitos visuais em experiências digitais funcionais, responsivas e intuitivas.
 
--  **UI/UX & Product Design**
--  **Frontend Development**
--  **React & modern web interfaces**
--  **Design Systems & reusable components**
--  **AI applied to design and development**
--  **Responsive & accessible interfaces**
--  **Frontend + Backend integration**
--  **Creative digital products**
+Tenho interesse especial por **interfaces modernas, experiência do usuário, design systems, componentes reutilizáveis e desenvolvimento orientado à experiência**. Ao mesmo tempo, mantenho uma base Full Stack que me permite compreender e trabalhar na integração entre frontend, backend, APIs, banco de dados e infraestrutura.
 
-I enjoy working between **design and development**, combining visual thinking with software engineering to turn concepts, wireframes and prototypes into real interactive experiences.
+Minha formação e aprendizado também passam por **Design, Full Stack Development e Artificial Intelligence**, buscando constantemente novas ferramentas e formas de unir criatividade e tecnologia.
 
-I'm continuously expanding my knowledge through projects, experimentation and certifications, including **Design, Full Stack Development and Artificial Intelligence**.
+Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar experiências que sejam **claras, acessíveis, bonitas e agradáveis de utilizar**.
 
-I have a particular interest in understanding not only **how software works**, but also **how people experience it** — from the first visual interaction to the final product.
-
-> **I believe good software is not only about how it works — it's also about how it feels to use.**
+> **Design gives technology a voice. Code gives ideas a life.**
 
 ---
 
-##  What I Do
+## 🇺🇸 About me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm **João Gabriel**, a **Full Stack Developer** with a strong focus on **Frontend Development, UI/UX, Design and Artificial Intelligence**.
 
-###  UI/UX & CX
+I enjoy working at the intersection of **design and software development**, turning ideas, prototypes and visual concepts into functional, responsive and intuitive digital experiences.
 
-I enjoy designing digital experiences with attention to:
+My main interests include **modern interfaces, user experience, design systems, reusable components and creative development**. At the same time, my Full Stack background allows me to understand and work across frontend, backend, APIs, databases and infrastructure.
 
-- User experience
-- Visual hierarchy
-- Accessibility
-- Responsive layouts
-- Design systems
-- Components & patterns
-- Prototyping
-- Interaction design
-- Usability
-- Visual consistency
+I'm continuously expanding my knowledge through projects, experimentation and learning in **Design, Full Stack Development and Artificial Intelligence**, exploring new technologies and creative ways to build better digital products.
 
-</td>
+I believe software should not only work well — it should also be **clear, accessible, visually engaging and enjoyable to use**.
 
-<td width="50%" valign="top">
-
-###  Frontend Development
-
-I turn designs into responsive and interactive interfaces using:
-
-- React
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Component-based architecture
-- API integration
-- Modern UI patterns
-- Git & GitHub
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-###  Full Stack
-
-Although my current interests lean toward frontend and design, I also work with:
-
-- Java
-- Spring
-- Python
-- REST APIs
-- MySQL
-- PostgreSQL
-- Docker
-- Backend integration
-
-</td>
-
-<td width="50%" valign="top">
-
-###  Design + AI
-
-I'm interested in exploring how AI can improve:
-
-- Product design
-- Prototyping
-- Development workflows
-- Creative processes
-- UI generation
-- Developer productivity
-- Digital experiences
-
-</td>
-</tr>
-</table>
-
----
-
-# Skills
-
-##  Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind&theme=dark" />
-</p>
-
----
-
-##  UI/UX & Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,ae&theme=dark" />
-</p>
-
----
-
-##  Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,spring&theme=dark" />
-</p>
-
----
-
-
-##  Database & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,supabase&theme=dark" />
-</p>
-
----
-
-##  Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,eclipse,idea,androidstudio&theme=dark" />
-</p>
+> **Design gives technology a voice. Code gives ideas a life.**
 
 ---
 
@@ -177,8 +49,144 @@ I'm interested in exploring how AI can improve:
 </div>
 
 ---
+
+### 🎨 Frontend & UI/UX
+
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+<br/>
+<br/>
+
+### ⚙️ Backend & Programming
+
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img align="left" alt="REST API" title="REST API" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+
+<br/>
+<br/>
+
+### 🗄️ Database & Infrastructure
+
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+<br/>
+<br/>
+
+### 🧪 Testing
+
+<img align="left" alt="JUnit" title="JUnit" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
+
+<img align="left" alt="Mockito" title="Mockito" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mockito/mockito-original.svg" />
+
+<br/>
+<br/>
+
+### 🎨 Creative Tools
+
+<img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
+
+<img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+
+<img align="left" alt="Adobe After Effects" title="Adobe After Effects" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
+
+<br/>
+<br/>
+
+### 🛠️ Tools & Development
+
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+<img align="left" alt="GitLab" title="GitLab" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+
+<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+<img align="left" alt="Eclipse" title="Eclipse" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+
+<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
+<img align="left" alt="Android Studio" title="Android Studio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+
+<br/>
+<br/>
+
+### 🤖 AI & Development
+
+<img align="left" alt="Claude" title="Claude" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/claude/D97757" />
+
+<img align="left" alt="Google" title="Google" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/google/4285F4" />
+
+<br/>
+<br/>
+
+---
+
+### 🔄 Methodologies
+
+`Scrum` · `Kanban` · `Agile`
+
+---
+
+### 🎓 Certifications & Learning
+
+`Design FullStack AI` · `Full Stack Development` · `UI/UX Design` · `Artificial Intelligence`
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="180"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+/>
+
+<img
+  align="left"
+  alt="Top Languages"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8"
+/>
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+---
+
 <div align="center">
-  
-### Design. Code. Create. 🔒
+
+### Design. Code. Create. 🚀
 
 </div>
