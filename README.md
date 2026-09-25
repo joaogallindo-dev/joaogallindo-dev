@@ -56,6 +56,20 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 <br/>
 <br/>
 
+###  Creative Tools
+
+<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+<img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
+
+<img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+
+<img align="left" alt="Adobe After Effects" title="Adobe After Effects" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
+
+<br/>
+<br/>
+
+
 ###  Backend 
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -80,18 +94,6 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 <br/>
 <br/>
 
-###  Creative Tools
-
-<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
-<img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
-
-<img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-
-<img align="left" alt="Adobe After Effects" title="Adobe After Effects" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
-
-<br/>
-<br/>
 
 ### 🛠️ Tools 
 
@@ -109,14 +111,8 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 
 <img align="left" alt="Android Studio" title="Android Studio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 
-<br/>
-<br/>
-
-###  AI 
-
 <img align="left" alt="Claude" title="Claude" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/claude/D97757" />
 
-<img align="left" alt="Google" title="Google" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/google/4285F4" />
 
 <br/>
 <br/>
