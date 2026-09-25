@@ -1,10 +1,6 @@
-# 👨🏻‍💻 João Gabriel
+<div align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=80F7D4&center=true&vCenter=true&random=true&width=600&height=100&lines=Backend+Developer;A+vida+%C3%A9+curta%2C+ent%C3%A3o%2C+curta!;Knowledge+is+power" alt="Typing SVG" /></a></div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6DB9DA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+%26+UI%2FUX+Enthusiast;Design+%2B+Technology+%2B+AI;Building+interfaces+that+feel+good+to+use)](https://git.io/typing-svg)
-
-</div>
 
 
 ---
