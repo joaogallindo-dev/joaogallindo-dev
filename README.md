@@ -132,7 +132,7 @@ I'm interested in exploring how AI can improve:
 ##  Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind&theme=dark" />
 </p>
 
 **HTML · CSS · JavaScript · React · Tailwind CSS**
@@ -152,7 +152,7 @@ I'm interested in exploring how AI can improve:
 ##  Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,spring,docker&theme=dark" />
 </p>
 
 **Java · Spring · Python · REST APIs**
