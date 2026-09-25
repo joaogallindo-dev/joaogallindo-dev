@@ -26,7 +26,7 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 
 ---
 
-###  Frontend & UI/UX
+###  Frontend 
 
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
@@ -41,8 +41,6 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
 <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 <br/>
 <br/>
@@ -72,6 +70,8 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 <br/>
 
 ###  Creative Tools
+
+<img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 <img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
 
