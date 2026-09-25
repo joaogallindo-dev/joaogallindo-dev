@@ -91,38 +91,11 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
-<br/>
-<br/>
-
-
-### 🛠️ Tools 
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<img align="left" alt="GitLab" title="GitLab" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-
-<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-<img align="left" alt="Eclipse" title="Eclipse" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-
-<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-
 <img align="left" alt="Android Studio" title="Android Studio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 
-<img align="left" alt="Claude" title="Claude" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/claude/D97757" />
-
 
 <br/>
 <br/>
-
----
-
-
-<div align="center">
-
-<img src="joaogallindo-dev-space-shooter.gif" width="100%" alt="Animated Space Shooter">
-
-</div>
 
 
 
