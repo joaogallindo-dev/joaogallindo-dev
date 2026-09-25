@@ -1,4 +1,4 @@
-<img width=100% src="/gif.gif.png"/>
+<img width=100% src="gif.gif.png"/>
 
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=80F7D4&center=true&vCenter=true&random=true&width=600&height=100&lines=Backend+Developer;A+vida+%C3%A9+curta%2C+ent%C3%A3o%2C+curta!;Knowledge+is+power" alt="Typing SVG" /></a></div>
@@ -16,7 +16,7 @@
   </table>
 </div>
 
-<img src="/gif.gif.png" width="100%" height="8px"/>
+<img src="gif.gif.png" width="100%" height="8px"/>
 
 <div><br/>
 
