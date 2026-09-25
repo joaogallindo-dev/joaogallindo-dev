@@ -20,16 +20,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="joaogallindo-dev-space-shooter.gif" width="100%" alt="Animated Space Shooter">
-
-</div>
-
----
-
 ## 🚀 About Me
 
 I'm a **Full Stack Developer** passionate about the intersection between **technology, design and user experience**.
@@ -180,77 +170,20 @@ I'm interested in exploring how AI can improve:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" />
 </p>
 
-**Git · GitHub · VS Code · Eclipse**
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-### 🪐 Space Shooter Portfolio
-
-**An interactive developer portfolio inspired by the visual language of space games.**
-
-A creative experiment combining **web development, animation and personal branding** to create a more memorable developer experience.
-
-<br>
-
-<img src="joaogallindo-dev-space-shooter.gif" width="85%" alt="Space Shooter Portfolio">
+---
 
 </div>
-
----
-
-### 💡 More Projects
-
-I'm continuously experimenting with projects involving:
-
-- ⚛️ React interfaces
-- 🎨 UI/UX experiments
-- 🧩 Design systems
-- 🤖 AI-assisted development
-- 🌐 Full Stack applications
-- 📱 Responsive web experiences
-- 🎮 Interactive web experiences
-- 🛠️ Developer tools
-
-> Check my repositories to see what I'm currently building.
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
 
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6DB9DA" alt="Profile views">
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="joaogallindo-dev-space-shooter.gif" width="100%" alt="Animated Space Shooter">
+
+</div>
+
+---
