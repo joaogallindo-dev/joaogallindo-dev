@@ -9,26 +9,26 @@
 <br>
 
 <a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/SEU_USUARIO/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-6DB9DA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-6DB9DA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** passionate about the intersection between **technology, design and user experience**.
+I'm a **Full Stack Developer** passionate about the intersection between **technology, design, user experience and artificial intelligence**.
 
 My journey in development goes beyond writing code. I enjoy understanding how people interact with digital products and transforming ideas into interfaces that are **functional, intuitive, accessible and visually engaging**.
 
 My strongest interests are currently focused on:
 
-- 🎨 **UI/UX Design**
+- 🎨 **UI/UX & Product Design**
 - 💻 **Frontend Development**
 - ⚛️ **React & modern web interfaces**
 - 🧩 **Design Systems & reusable components**
@@ -37,7 +37,11 @@ My strongest interests are currently focused on:
 - 🔗 **Frontend + Backend integration**
 - 🛠️ **Creative digital products**
 
-I like working between **design and development**, turning concepts, wireframes and visual ideas into real interactive experiences.
+I enjoy working between **design and development**, combining visual thinking with software engineering to turn concepts, wireframes and prototypes into real interactive experiences.
+
+I'm continuously expanding my knowledge through projects, experimentation and certifications, including **Design, Full Stack Development and Artificial Intelligence**.
+
+I have a particular interest in understanding not only **how software works**, but also **how people experience it** — from the first visual interaction to the final product.
 
 > **I believe good software is not only about how it works — it's also about how it feels to use.**
 
@@ -76,7 +80,7 @@ I turn designs into responsive and interactive interfaces using:
 - JavaScript
 - HTML5
 - CSS3
-- Responsive Design
+- Tailwind CSS
 - Component-based architecture
 - API integration
 - Modern UI patterns
@@ -90,13 +94,14 @@ I turn designs into responsive and interactive interfaces using:
 
 ### 🔗 Full Stack
 
-Although my current interests lean toward frontend and design, I also have experience with:
+Although my current interests lean toward frontend and design, I also work with:
 
 - Java
 - Spring
+- Python
 - REST APIs
 - MySQL
-- Python
+- PostgreSQL
 - Docker
 - Backend integration
 
@@ -127,20 +132,20 @@ I'm interested in exploring how AI can improve:
 ## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 </p>
 
-**HTML · CSS · JavaScript · React**
+**HTML · CSS · JavaScript · React · Tailwind CSS**
 
 ---
 
 ## 🎨 UI/UX & Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,ai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,ae&theme=dark" />
 </p>
 
-**Figma · Adobe Illustrator · UI Design · UX Design · Prototyping · Design Systems**
+**Figma · Adobe Illustrator · Photoshop · After Effects**
 
 ---
 
@@ -154,21 +159,59 @@ I'm interested in exploring how AI can improve:
 
 ---
 
+## 🧪 Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=junit&theme=dark" />
+</p>
+
+**JUnit · Mockito · Unit Testing · Integration Testing**
+
+---
+
 ## 🗄️ Database & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark" />
 </p>
 
-**MySQL · Docker**
+**MySQL · PostgreSQL · Docker**
 
 ---
 
 ## 🛠️ Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,androidstudio&theme=dark" />
 </p>
+
+**Git · GitHub · VS Code · Eclipse · IntelliJ IDEA · Android Studio**
+
+---
+
+## 🤖 AI & Modern Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=claude&theme=dark" />
+</p>
+
+**Claude · Google Antigravity · AI-assisted Development · Generative AI**
+
+---
+
+## 🔄 Methodologies
+
+**Scrum · Kanban · Agile**
+
+---
+
+## 🎓 Certifications
+
+**Design · Full Stack · Artificial Intelligence**
+
+- 🎨 **Design FullStack AI**
+- 💻 **Full Stack Development**
+- 🤖 **Artificial Intelligence**
 
 ---
 
@@ -179,3 +222,9 @@ I'm interested in exploring how AI can improve:
 </div>
 
 ---
+
+<div align="center">
+
+### Design. Code. Create. 🚀
+
+</div>
