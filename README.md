@@ -196,6 +196,6 @@ I'm interested in exploring how AI can improve:
 
 <div align="center">
 
-### Design. Code. Create. 🚀
+### Design. Code. Create. 🔒
 
 </div>
