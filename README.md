@@ -159,15 +159,6 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-## Testing
-
-<p>
-<img src="https://skillicons.dev/icons?i=junit&theme=dark" />
-</p>
-
-**JUnit · Mockito · Unit Testing · Integration Testing**
-
----
 
 ##  Database & Infrastructure
 
@@ -186,16 +177,6 @@ I'm interested in exploring how AI can improve:
 </p>
 
 **Git · GitHub · VS Code · Eclipse · IntelliJ IDEA · Android Studio**
-
----
-
-##  AI & Modern Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=claude&theme=dark" />
-</p>
-
-**Claude · Google Antigravity · AI-assisted Development · Generative AI**
 
 ---
 
