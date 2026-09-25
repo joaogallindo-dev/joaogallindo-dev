@@ -5,23 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6DB9DA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+%26+UI%2FUX+Enthusiast;Design+%2B+Technology+%2B+AI;Building+interfaces+that+feel+good+to+use)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## Sobre mim
-
-Me chamo **João Gabriel** e sou **Desenvolvedor Full Stack**, com maior interesse em **Frontend, UI/UX, Design e Inteligência Artificial**.
-
-Gosto de trabalhar na interseção entre **design e desenvolvimento**, transformando ideias, protótipos e conceitos visuais em experiências digitais funcionais, responsivas e intuitivas.
-
-Tenho interesse especial por **interfaces modernas, experiência do usuário, design systems, componentes reutilizáveis e desenvolvimento orientado à experiência**. Ao mesmo tempo, mantenho uma base Full Stack que me permite compreender e trabalhar na integração entre frontend, backend, APIs, banco de dados e infraestrutura.
-
-Minha formação e aprendizado também passam por **Design, Full Stack Development e Artificial Intelligence**, buscando constantemente novas ferramentas e formas de unir criatividade e tecnologia.
-
-Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar experiências que sejam **claras, acessíveis, bonitas e agradáveis de utilizar**.
-
-> **Design gives technology a voice. Code gives ideas a life.**
-
 ---
 
 ###  Frontend & UI/UX
@@ -43,6 +26,26 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 <br/>
+<br/>
+
+---
+
+## Sobre mim
+
+Me chamo **João Gabriel** e sou **Desenvolvedor Full Stack**, com maior interesse em **Frontend, UI/UX, Design e Inteligência Artificial**.
+
+Gosto de trabalhar na interseção entre **design e desenvolvimento**, transformando ideias, protótipos e conceitos visuais em experiências digitais funcionais, responsivas e intuitivas.
+
+Tenho interesse especial por **interfaces modernas, experiência do usuário, design systems, componentes reutilizáveis e desenvolvimento orientado à experiência**. Ao mesmo tempo, mantenho uma base Full Stack que me permite compreender e trabalhar na integração entre frontend, backend, APIs, banco de dados e infraestrutura.
+
+Minha formação e aprendizado também passam por **Design, Full Stack Development e Artificial Intelligence**, buscando constantemente novas ferramentas e formas de unir criatividade e tecnologia.
+
+Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar experiências que sejam **claras, acessíveis, bonitas e agradáveis de utilizar**.
+
+> **Design gives technology a voice. Code gives ideas a life.**
+
+---
+
 <br/>
 
 ###  Backend 
