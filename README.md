@@ -155,7 +155,7 @@ I'm interested in exploring how AI can improve:
 <img src="https://skillicons.dev/icons?i=java,python,spring&theme=dark" />
 </p>
 
-**Java · Python · REST APIs · Spring **
+**Java · Python · REST APIs · Spring**
 
 ---
 
