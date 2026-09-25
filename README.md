@@ -15,8 +15,6 @@
   </table>
 </div>
 
-<img src="gif.gif.png" width="100%" height="8px"/>
-
 <div><br/>
 
 
