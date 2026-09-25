@@ -1,6 +1,8 @@
 # 👨🏻‍💻 João Gabriel
 
+</div>
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6DB9DA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+%26+UI%2FUX+Enthusiast;Design+%2B+Technology+%2B+AI;Building+interfaces+that+feel+good+to+use)](https://git.io/typing-svg)
 
 </div>
