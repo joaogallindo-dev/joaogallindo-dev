@@ -135,7 +135,7 @@ I'm interested in exploring how AI can improve:
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind&theme=dark" />
 </p>
 
-**HTML · CSS · JavaScript · React · Tailwind CSS · Angular **
+**HTML · CSS · JavaScript · React · Tailwind CSS · Angular**
 
 ---
 
