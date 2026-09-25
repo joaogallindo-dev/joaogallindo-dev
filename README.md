@@ -20,7 +20,7 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Full Stack Developer** passionate about the intersection between **technology, design, user experience and artificial intelligence**.
 
@@ -28,14 +28,14 @@ My journey in development goes beyond writing code. I enjoy understanding how pe
 
 My strongest interests are currently focused on:
 
-- 🎨 **UI/UX & Product Design**
-- 💻 **Frontend Development**
-- ⚛️ **React & modern web interfaces**
-- 🧩 **Design Systems & reusable components**
-- 🤖 **AI applied to design and development**
-- 📱 **Responsive & accessible interfaces**
-- 🔗 **Frontend + Backend integration**
-- 🛠️ **Creative digital products**
+-  **UI/UX & Product Design**
+-  **Frontend Development**
+-  **React & modern web interfaces**
+-  **Design Systems & reusable components**
+-  **AI applied to design and development**
+-  **Responsive & accessible interfaces**
+-  **Frontend + Backend integration**
+-  **Creative digital products**
 
 I enjoy working between **design and development**, combining visual thinking with software engineering to turn concepts, wireframes and prototypes into real interactive experiences.
 
@@ -47,13 +47,13 @@ I have a particular interest in understanding not only **how software works**, b
 
 ---
 
-## 🎯 What I Do
+##  What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 UI/UX & Product Design
+###  UI/UX & CX
 
 I enjoy designing digital experiences with attention to:
 
@@ -72,7 +72,7 @@ I enjoy designing digital experiences with attention to:
 
 <td width="50%" valign="top">
 
-### 💻 Frontend Development
+###  Frontend Development
 
 I turn designs into responsive and interactive interfaces using:
 
@@ -92,7 +92,7 @@ I turn designs into responsive and interactive interfaces using:
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 Full Stack
+###  Full Stack
 
 Although my current interests lean toward frontend and design, I also work with:
 
@@ -109,7 +109,7 @@ Although my current interests lean toward frontend and design, I also work with:
 
 <td width="50%" valign="top">
 
-### 🤖 Design + AI
+###  Design + AI
 
 I'm interested in exploring how AI can improve:
 
@@ -127,9 +127,9 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-# 🧠 My Tech Stack
+# 🧠 My Skills
 
-## 🎨 Frontend
+##  Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
@@ -139,7 +139,7 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-## 🎨 UI/UX & Design
+##  UI/UX & Design
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae&theme=dark" />
@@ -149,7 +149,7 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-## ⚙️ Backend
+##  Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" />
@@ -159,7 +159,7 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 <p>
 <img src="https://skillicons.dev/icons?i=junit&theme=dark" />
@@ -169,7 +169,7 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-## 🗄️ Database & Infrastructure
+##  Database & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark" />
@@ -179,7 +179,7 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-## 🛠️ Development Tools
+##  Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,androidstudio&theme=dark" />
@@ -189,7 +189,7 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-## 🤖 AI & Modern Tools
+##  AI & Modern Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=claude&theme=dark" />
@@ -199,19 +199,9 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-## 🔄 Methodologies
+##  Methodologies
 
 **Scrum · Kanban · Agile**
-
----
-
-## 🎓 Certifications
-
-**Design · Full Stack · Artificial Intelligence**
-
-- 🎨 **Design FullStack AI**
-- 💻 **Full Stack Development**
-- 🤖 **Artificial Intelligence**
 
 ---
 
