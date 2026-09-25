@@ -135,7 +135,7 @@ I'm interested in exploring how AI can improve:
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind&theme=dark" />
 </p>
 
-**HTML · CSS · JavaScript · React · Tailwind CSS**
+**HTML · CSS · JavaScript · React · Tailwind CSS · Angular **
 
 ---
 
@@ -155,7 +155,7 @@ I'm interested in exploring how AI can improve:
 <img src="https://skillicons.dev/icons?i=java,python,spring&theme=dark" />
 </p>
 
-**Java · Spring · Python · REST APIs**
+**Java · Python · REST APIs · Spring **
 
 ---
 
@@ -173,16 +173,10 @@ I'm interested in exploring how AI can improve:
 ##  Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,eclipse,idea,androidstudio&theme=dark" />
 </p>
 
-**Git · GitHub · VS Code · Eclipse · IntelliJ IDEA · Android Studio**
-
----
-
-##  Methodologies
-
-**Scrum · Kanban · Agile**
+**Git · GitHub · Gitlab · VS Code · Eclipse · IntelliJ IDEA · Android Studio**
 
 ---
 
