@@ -152,7 +152,7 @@ I'm interested in exploring how AI can improve:
 ##  Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,spring,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,spring&theme=dark" />
 </p>
 
 **Java · Spring · Python · REST APIs**
