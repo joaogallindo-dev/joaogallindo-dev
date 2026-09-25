@@ -82,7 +82,7 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 <br/>
 <br/>
 
-### 🛠️ Tools & Development
+### 🛠️ Tools 
 
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -101,7 +101,7 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 <br/>
 <br/>
 
-###  AI & Development
+###  AI 
 
 <img align="left" alt="Claude" title="Claude" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/claude/D97757" />
 
