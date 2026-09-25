@@ -8,7 +8,7 @@
 
 ---
 
-## 🇧🇷 Sobre mim
+## Sobre mim
 
 Me chamo **João Gabriel** e sou **Desenvolvedor Full Stack**, com maior interesse em **Frontend, UI/UX, Design e Inteligência Artificial**.
 
@@ -24,21 +24,6 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 
 ---
 
-## 🇺🇸 About me
-
-I'm **João Gabriel**, a **Full Stack Developer** with a strong focus on **Frontend Development, UI/UX, Design and Artificial Intelligence**.
-
-I enjoy working at the intersection of **design and software development**, turning ideas, prototypes and visual concepts into functional, responsive and intuitive digital experiences.
-
-My main interests include **modern interfaces, user experience, design systems, reusable components and creative development**. At the same time, my Full Stack background allows me to understand and work across frontend, backend, APIs, databases and infrastructure.
-
-I'm continuously expanding my knowledge through projects, experimentation and learning in **Design, Full Stack Development and Artificial Intelligence**, exploring new technologies and creative ways to build better digital products.
-
-I believe software should not only work well — it should also be **clear, accessible, visually engaging and enjoyable to use**.
-
-> **Design gives technology a voice. Code gives ideas a life.**
-
----
 
 <div align="center">
 
@@ -48,7 +33,7 @@ I believe software should not only work well — it should also be **clear, acce
 
 ---
 
-### 🎨 Frontend & UI/UX
+###  Frontend & UI/UX
 
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
@@ -69,7 +54,7 @@ I believe software should not only work well — it should also be **clear, acce
 <br/>
 <br/>
 
-### ⚙️ Backend & Programming
+###  Backend 
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
@@ -82,7 +67,7 @@ I believe software should not only work well — it should also be **clear, acce
 <br/>
 <br/>
 
-### 🗄️ Database & Infrastructure
+###  Database & Infrastructure
 
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
@@ -95,16 +80,7 @@ I believe software should not only work well — it should also be **clear, acce
 <br/>
 <br/>
 
-### 🧪 Testing
-
-<img align="left" alt="JUnit" title="JUnit" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
-
-<img align="left" alt="Mockito" title="Mockito" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mockito/mockito-original.svg" />
-
-<br/>
-<br/>
-
-### 🎨 Creative Tools
+###  Creative Tools
 
 <img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
 
@@ -134,7 +110,7 @@ I believe software should not only work well — it should also be **clear, acce
 <br/>
 <br/>
 
-### 🤖 AI & Development
+###  AI & Development
 
 <img align="left" alt="Claude" title="Claude" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/claude/D97757" />
 
@@ -143,48 +119,6 @@ I believe software should not only work well — it should also be **clear, acce
 <br/>
 <br/>
 
----
 
-### 🔄 Methodologies
 
-`Scrum` · `Kanban` · `Agile`
 
----
-
-### 🎓 Certifications & Learning
-
-`Design FullStack AI` · `Full Stack Development` · `UI/UX Design` · `Artificial Intelligence`
-
----
-
-### 📊 GitHub Stats
-
-<p>
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="180"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
-/>
-
-<img
-  align="left"
-  alt="Top Languages"
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8"
-/>
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
----
-
-<div align="center">
-
-### Design. Code. Create. 🚀
-
-</div>
