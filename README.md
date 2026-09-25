@@ -127,7 +127,7 @@ I'm interested in exploring how AI can improve:
 
 ---
 
-# 🧠 My Skills
+# My Hard Skills
 
 ##  Frontend
 
