@@ -22,15 +22,6 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 
 ---
 
-
-<div align="center">
-
-<img src="joaogallindo-dev-space-shooter.gif" width="100%" alt="Animated Space Shooter">
-
-</div>
-
----
-
 ###  Frontend & UI/UX
 
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -116,6 +107,15 @@ Acredito que desenvolver software não é apenas fazer algo funcionar, mas criar
 
 <br/>
 <br/>
+
+---
+
+
+<div align="center">
+
+<img src="joaogallindo-dev-space-shooter.gif" width="100%" alt="Animated Space Shooter">
+
+</div>
 
 
 
