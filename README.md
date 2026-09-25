@@ -135,8 +135,6 @@ I'm interested in exploring how AI can improve:
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind&theme=dark" />
 </p>
 
-**HTML · CSS · JavaScript · React · Tailwind CSS · Angular**
-
 ---
 
 ##  UI/UX & Design
@@ -145,8 +143,6 @@ I'm interested in exploring how AI can improve:
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae&theme=dark" />
 </p>
 
-**Figma · Adobe Illustrator · Photoshop · After Effects**
-
 ---
 
 ##  Backend
@@ -154,8 +150,6 @@ I'm interested in exploring how AI can improve:
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,spring&theme=dark" />
 </p>
-
-**Java · Python · REST APIs · Spring**
 
 ---
 
@@ -166,8 +160,6 @@ I'm interested in exploring how AI can improve:
 <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,supabase&theme=dark" />
 </p>
 
-**MySQL · PostgreSQL · Docker · Supabase**
-
 ---
 
 ##  Development Tools
@@ -175,8 +167,6 @@ I'm interested in exploring how AI can improve:
 <p>
 <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,eclipse,idea,androidstudio&theme=dark" />
 </p>
-
-**Git · GitHub · Gitlab · VS Code · Eclipse · IntelliJ IDEA · Android Studio**
 
 ---
 
